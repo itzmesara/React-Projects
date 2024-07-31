@@ -2,7 +2,7 @@ import React from 'react'
 
 function alertMsg()
 {
-  alert('Message from Javascript alert');
+  alert('Message from Javascript Alert!');
   console.log('Message to developer');
 }
 function App() {
